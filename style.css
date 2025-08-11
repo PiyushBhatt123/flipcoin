@@ -1,0 +1,46 @@
+ body{
+    background-color:lightblue;
+ }
+#heads{
+    width: 1225px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width:300px;  */
+    margin-top:50px; 
+} 
+
+div h2{
+    text-align:center;
+    color:white;
+    font-size: 50px;
+
+}
+div h1{
+    text-align:center;
+    
+}
+p{
+    text-align: center;
+}
+#btn{
+    width: 1225px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width:300px;  */
+    margin:50px; 
+    gap: 50px;
+    
+}
+button{
+   
+    
+}
+#coin{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
